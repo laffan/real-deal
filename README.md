@@ -1,6 +1,6 @@
 # Real Deal
 
-Tools in the fight against dark patterns.
+A shield in the war against dark patterns.
 
 
 ### Install
