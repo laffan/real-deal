@@ -1,0 +1,13 @@
+body {
+  filter: grayscale(100%);
+}
+
+.RealDeal__CartBtn {
+  display: block;
+  background: black;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  padding: 20px;
+}
