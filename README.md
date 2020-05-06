@@ -2,6 +2,8 @@
 
 A shield in the war against dark patterns.
 
+At the moment, it just turns color off on amazon.com, finds the price, and tells you what percentage that price is of an imaginary bank account.
+
 
 ### Install
 
